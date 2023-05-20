@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/pkorobeinikov"><img align="right" src="https://api.daily.dev/devcards/5c8f1fef576a400a9f22512320139947.png?r=pzs" width="400" alt="Petr Korobeinikov's Dev Card"/></a>
+<a href="https://app.daily.dev/pkorobeinikov"><img align="right" src="https://github.com/pkorobeinikov/pkorobeinikov/blob/main/devcard.svg" width="400" alt="Petr Korobeinikov's Dev Card"/></a>
 
 ### Petr Korobeinikov 👨‍💻
 
