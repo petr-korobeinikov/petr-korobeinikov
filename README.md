@@ -19,10 +19,10 @@ I am TechLead and Software Engineer building a cloud currently at [#CloudMTS](ht
 
 #### 📫 Public Profiles
 
-- GitHub: https://github.com/pkorobeinikov
 - LinkedIn: https://www.linkedin.com/in/petr-korobeinikov/
 - LeetCode: https://leetcode.com/petr-korobeinikov/
-- DailyDev: https://app.daily.dev/pkorobeinikov
+- DailyDev: https://app.daily.dev/petr-korobeinikov
+- GitHub: https://github.com/pkorobeinikov
 
 #### 📝 Publications
 
