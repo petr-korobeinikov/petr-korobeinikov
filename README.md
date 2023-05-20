@@ -1,3 +1,5 @@
+<a href="https://app.daily.dev/pkorobeinikov"><img align="right" src="https://api.daily.dev/devcards/5c8f1fef576a400a9f22512320139947.png?r=pzs" width="400" alt="Petr Korobeinikov's Dev Card"/></a>
+
 ### Petr Korobeinikov 👨‍💻
 
 I am TechLead and Software Engineer building a cloud currently at [#CloudMTS](https://cloud.mts.ru/).
