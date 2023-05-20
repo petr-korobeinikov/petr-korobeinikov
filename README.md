@@ -14,8 +14,8 @@ I am TechLead and Software Engineer building a cloud currently at [#CloudMTS](ht
 
 #### ✍️ Blogging
 
-- [Principal Engineering Telegram Channel](https://principal-engineering.ru/) (russian)
-- [Principal Engineering Blog](https://t.me/principalengineering) (russian)
+- [Principal Engineering Telegram Channel](https://t.me/principalengineering) (russian)
+- [Principal Engineering Blog](https://principal-engineering.ru/) (russian)
 
 #### 📫 Public Profiles
 
