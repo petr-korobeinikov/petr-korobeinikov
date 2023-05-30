@@ -27,6 +27,7 @@ I am TechLead and Software Engineer building a cloud currently at [#CloudMTS](ht
 #### 📝 Publications
 
 - Habr.com (russian):
+  - 2023-05-30, #CloudMTS: [Создаем типовое локальное окружение для разработчика](https://habr.com/ru/companies/cloud_mts/articles/735350/)
   - 2023-05-17, #CloudMTS: [Несколько мыслей по подготовке к алгоритмической части собеседования](https://habr.com/ru/companies/cloud_mts/articles/735348/)
   - 2023-03-14, #CloudMTS: [Как мы сделали для разработчиков универсальную шину событий, не требующую знаний Kafka и прочих брокеров](https://habr.com/ru/companies/cloud_mts/articles/721964/)
   - 2017-09-10, Avito: [Встречаем PostgreSQL 10. Перевод Release Notes](https://habr.com/ru/companies/avito/articles/339520/)
