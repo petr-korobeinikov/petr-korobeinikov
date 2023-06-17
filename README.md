@@ -23,7 +23,6 @@ I am TechLead and Software Engineer building a cloud currently at [#CloudMTS](ht
 - LinkedIn: https://www.linkedin.com/in/petr-korobeinikov/
 - LeetCode: https://leetcode.com/petr-korobeinikov/
 - DailyDev: https://app.daily.dev/petr-korobeinikov
-- GitHub: https://github.com/pkorobeinikov
 
 #### 📝 Publications
 
