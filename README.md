@@ -21,9 +21,9 @@ I am TechLead and Software Engineer building a cloud currently at [#CloudMTS](ht
 
 #### 📫 Public Profiles
 
-- LinkedIn: https://www.linkedin.com/in/petr-korobeinikov/
-- LeetCode: https://leetcode.com/petr-korobeinikov/
-- Habr: https://habr.com/ru/users/petr-korobeinikov/
+- LinkedIn: https://www.linkedin.com/in/petr-korobeinikov
+- LeetCode: https://leetcode.com/petr-korobeinikov
+- Habr: https://habr.com/ru/users/petr-korobeinikov
 - DailyDev: https://app.daily.dev/petr-korobeinikov
 
 #### 📝 Publications
