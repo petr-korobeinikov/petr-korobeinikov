@@ -2,7 +2,7 @@
 
 ### Petr Korobeinikov 👨‍💻
 
-I am TechLead and Software Engineer building a cloud currently at [#CloudMTS](https://cloud.mts.ru/).
+I am TechLead and Software Engineer building ~~a cloud currently at [#CloudMTS](https://cloud.mts.ru/)~~.
 
 #### 🛠 Tech Stack
 
