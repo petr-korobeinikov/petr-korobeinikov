@@ -7,7 +7,7 @@ I am TechLead and Software Engineer building ~~a cloud currently at [#CloudMTS](
 #### 🛠 Tech Stack
 
 - Go
-- Python
+- ~~Python~~
 - Kubernetes
 - Postgres
 - Kafka
