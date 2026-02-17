@@ -28,6 +28,7 @@ I am TechLead and Software Engineer building ~~a cloud currently at [#CloudMTS](
 #### 📝 Publications
 
 - Habr.com (russian):
+  - 2026-02-16, MTS: [GraphQL и Go — gqlgen после года в проде: опыт, советы и выводы](https://habr.com/ru/companies/ru_mts/articles/994594/)
   - 2023-05-30, #CloudMTS: [Создаем типовое локальное окружение для разработчика](https://habr.com/ru/companies/cloud_mts/articles/735350/)
   - 2023-05-17, #CloudMTS: [Несколько мыслей по подготовке к алгоритмической части собеседования](https://habr.com/ru/companies/cloud_mts/articles/735348/)
   - 2023-03-14, #CloudMTS: [Как мы сделали для разработчиков универсальную шину событий, не требующую знаний Kafka и прочих брокеров](https://habr.com/ru/companies/cloud_mts/articles/721964/)
