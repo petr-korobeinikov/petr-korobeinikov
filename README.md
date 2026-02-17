@@ -18,13 +18,6 @@ I am TechLead and Software Engineer building ~~a cloud currently at [#CloudMTS](
 - [Principal Engineering Telegram Channel](https://t.me/principalengineering) (russian)
 - [Principal Engineering Blog](https://principal-engineering.ru/) (russian)
 
-#### 📫 Public Profiles
-
-- LinkedIn: https://www.linkedin.com/in/petr-korobeinikov
-- LeetCode: https://leetcode.com/petr-korobeinikov
-- Habr: https://habr.com/ru/users/petr-korobeinikov
-- DailyDev: https://app.daily.dev/petr_korobeinikov
-
 #### 📝 Publications
 
 - Habr.com (russian):
@@ -35,3 +28,11 @@ I am TechLead and Software Engineer building ~~a cloud currently at [#CloudMTS](
   - 2017-09-10, Avito: [Встречаем PostgreSQL 10. Перевод Release Notes](https://habr.com/ru/companies/avito/articles/339520/)
   - 2017-08-29, Avito: [Чемпионат #PGHACK. Платформа](https://habr.com/ru/companies/avito/articles/336246/)
   - 2017-08-07, Avito: [PGHACK. Соревнование в офисе Avito 2 сентября](https://habr.com/ru/companies/avito/articles/334886/)
+
+#### 📫 Public Profiles
+
+- LinkedIn: https://www.linkedin.com/in/petr-korobeinikov
+- LeetCode: https://leetcode.com/petr-korobeinikov
+- Habr: https://habr.com/ru/users/petr-korobeinikov
+- DailyDev: https://app.daily.dev/petr_korobeinikov
+
