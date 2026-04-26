@@ -6,6 +6,7 @@ I am TechLead and Software Engineer building ~~a cloud currently at [#CloudMTS](
 
 #### 🛠 Tech Stack
 
+- Kotlin + Spring Boot
 - Go
 - ~~Python~~
 - Kubernetes
