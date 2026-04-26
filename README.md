@@ -23,9 +23,9 @@ I am TechLead and Software Engineer building ~~a cloud currently at [#CloudMTS](
 
 - Habr.com (russian):
   - 2026-02-16, MTS: [GraphQL и Go — gqlgen после года в проде: опыт, советы и выводы](https://habr.com/ru/companies/ru_mts/articles/994594/)
-  - 2023-05-30, #CloudMTS: [Создаем типовое локальное окружение для разработчика](https://habr.com/ru/companies/cloud_mts/articles/735350/)
-  - 2023-05-17, #CloudMTS: [Несколько мыслей по подготовке к алгоритмической части собеседования](https://habr.com/ru/companies/cloud_mts/articles/735348/)
-  - 2023-03-14, #CloudMTS: [Как мы сделали для разработчиков универсальную шину событий, не требующую знаний Kafka и прочих брокеров](https://habr.com/ru/companies/cloud_mts/articles/721964/)
+  - 2023-05-30, MTS / #CloudMTS: [Создаем типовое локальное окружение для разработчика](https://habr.com/ru/companies/cloud_mts/articles/735350/)
+  - 2023-05-17, MTS / #CloudMTS: [Несколько мыслей по подготовке к алгоритмической части собеседования](https://habr.com/ru/companies/cloud_mts/articles/735348/)
+  - 2023-03-14, MTS / #CloudMTS: [Как мы сделали для разработчиков универсальную шину событий, не требующую знаний Kafka и прочих брокеров](https://habr.com/ru/companies/cloud_mts/articles/721964/)
   - 2017-09-10, Avito: [Встречаем PostgreSQL 10. Перевод Release Notes](https://habr.com/ru/companies/avito/articles/339520/)
   - 2017-08-29, Avito: [Чемпионат #PGHACK. Платформа](https://habr.com/ru/companies/avito/articles/336246/)
   - 2017-08-07, Avito: [PGHACK. Соревнование в офисе Avito 2 сентября](https://habr.com/ru/companies/avito/articles/334886/)
