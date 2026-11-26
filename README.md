@@ -45,7 +45,3 @@ On [Habr](https://habr.com/ru/users/petr-korobeinikov), in Russian.
 - [PGHACK. Соревнование в офисе Avito 2 сентября](https://habr.com/ru/companies/avito/articles/334886/)<br><sub>2017-08-07 · Avito</sub>
 
 </details>
-
----
-
-<a href="https://app.daily.dev/petr_korobeinikov"><img src="./devcard.png" width="600" alt="Petr Korobeinikov's Dev Card"></a>
