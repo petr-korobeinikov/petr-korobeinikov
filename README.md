@@ -2,7 +2,7 @@
 
 Founding Engineer & Architect, looking for a Principal Engineer role.
 
-Most recently at MTS FinTech (2024–2026): designed and built the backend for a section of the My MTS app in two months; it beat its most ambitious financial targets within six months. Before that: MTS VoiceTech, tech lead at #CloudMTS, Avito.
+Most recently at MTS FinTech (2024–2026): designed and built the backend for a section of the My MTS app in two months; it beat its most ambitious financial targets within six months. Before that: MTS VoiceTech, tech lead at #CloudMTS, Avito. I run architecture reviews, set engineering standards across teams and mentor engineers (8 mentees so far).
 
 [petr-korobeinikov.com](https://petr-korobeinikov.com/) · [Blog](https://petr-korobeinikov.com/posts/) · CV: [EN](https://petr-korobeinikov.com/cv/) / [RU](https://petr-korobeinikov.com/ru/cv/)
 
