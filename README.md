@@ -13,29 +13,13 @@ I am Founding Engineer & Architect ~~building a cloud at [#CloudMTS](https://clo
 
 ### 🛠 Tech Stack
 
-**Languages**<br>
-![Kotlin](https://img.shields.io/badge/Kotlin-292524?style=flat-square&logo=kotlin&logoColor=f97316)
-![Go](https://img.shields.io/badge/Go-292524?style=flat-square&logo=go&logoColor=f97316)
-![Python](https://img.shields.io/badge/Python-292524?style=flat-square&logo=python&logoColor=f97316)
+**Languages:** <img src="./icons/kotlin.svg" width="16" alt=""> Kotlin · <img src="./icons/go.svg" width="16" alt=""> Go · <img src="./icons/python.svg" width="16" alt=""> Python
 
-**Backend**<br>
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-292524?style=flat-square&logo=springboot&logoColor=f97316)
-![gRPC](https://img.shields.io/badge/gRPC-292524?style=flat-square)
-![GraphQL](https://img.shields.io/badge/GraphQL-292524?style=flat-square&logo=graphql&logoColor=f97316)
-![Temporal](https://img.shields.io/badge/Temporal-292524?style=flat-square&logo=temporal&logoColor=f97316)
+**Backend:** <img src="./icons/springboot.svg" width="16" alt=""> Spring Boot · gRPC · <img src="./icons/graphql.svg" width="16" alt=""> GraphQL · <img src="./icons/temporal.svg" width="16" alt=""> Temporal
 
-**Data & Messaging**<br>
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-292524?style=flat-square&logo=postgresql&logoColor=f97316)
-![Redis](https://img.shields.io/badge/Redis-292524?style=flat-square&logo=redis&logoColor=f97316)
-![Kafka](https://img.shields.io/badge/Kafka-292524?style=flat-square&logo=apachekafka&logoColor=f97316)
+**Data & Messaging:** <img src="./icons/postgresql.svg" width="16" alt=""> PostgreSQL · <img src="./icons/redis.svg" width="16" alt=""> Redis · <img src="./icons/apachekafka.svg" width="16" alt=""> Kafka
 
-**Cloud Native**<br>
-![Kubernetes](https://img.shields.io/badge/Kubernetes-292524?style=flat-square&logo=kubernetes&logoColor=f97316)
-![Helm](https://img.shields.io/badge/Helm-292524?style=flat-square&logo=helm&logoColor=f97316)
-![Kustomize](https://img.shields.io/badge/Kustomize-292524?style=flat-square)
-![Argo CD](https://img.shields.io/badge/Argo_CD-292524?style=flat-square&logo=argo&logoColor=f97316)
-![OpenTofu](https://img.shields.io/badge/OpenTofu-292524?style=flat-square&logo=opentofu&logoColor=f97316)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-292524?style=flat-square&logo=opentelemetry&logoColor=f97316)
+**Cloud Native:** <img src="./icons/kubernetes.svg" width="16" alt=""> Kubernetes · <img src="./icons/helm.svg" width="16" alt=""> Helm · Kustomize · <img src="./icons/argo.svg" width="16" alt=""> Argo CD · <img src="./icons/opentofu.svg" width="16" alt=""> OpenTofu · <img src="./icons/opentelemetry.svg" width="16" alt=""> OpenTelemetry
 
 ### 🧩 Open Source
 
