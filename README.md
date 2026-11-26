@@ -1,10 +1,12 @@
 ## Petr Korobeinikov
 
-I am Founding Engineer & Architect ~~building a cloud at [#CloudMTS](https://cloud.mts.ru/)~~ seeking a Principal Engineer role.
+Founding Engineer & Architect, looking for a Principal Engineer role.
 
-🌐 [petr-korobeinikov.com](https://petr-korobeinikov.com/) · [Blog](https://petr-korobeinikov.com/posts/) · CV: [EN](https://petr-korobeinikov.com/cv/) / [RU](https://petr-korobeinikov.com/ru/cv/)
+Most recently at MTS FinTech (2024–2026): designed and built the backend for a section of the My MTS app in two months; it beat its most ambitious financial targets within six months. Before that: MTS VoiceTech, tech lead at #CloudMTS, Avito.
 
-### 🛠 Tech Stack
+[petr-korobeinikov.com](https://petr-korobeinikov.com/) · [Blog](https://petr-korobeinikov.com/posts/) · CV: [EN](https://petr-korobeinikov.com/cv/) / [RU](https://petr-korobeinikov.com/ru/cv/)
+
+### Tech Stack
 
 **Languages:** Kotlin · Go · Python
 
@@ -14,13 +16,13 @@ I am Founding Engineer & Architect ~~building a cloud at [#CloudMTS](https://clo
 
 **Cloud Native:** Kubernetes · Helm · Kustomize · Argo CD · OpenTofu · OpenTelemetry
 
-### 🧩 Open Source
+### Open Source
 
 - **PostgreSQL 9.6**: [`\ev` and `\sv` psql commands](https://git.postgresql.org/pg/commitdiff/8eb6407aaeb6cbd972839e356b436bb698f51cff) for editing and showing view definitions
 - **PostgreSQL 9.6**: [`to_reg*()` functions accept `text`](https://git.postgresql.org/pg/commitdiff/ea0d494dae0d3d6fce26bf5d6fbaa07e2ee6c402) instead of `cstring`
 - **gci**: [`localmodule` support for projects without Go sources in the root](https://github.com/daixiang0/gci/pull/192), shipped with golangci-lint
 
-### 📝 Publications
+### Publications
 
 On [Habr](https://habr.com/ru/users/petr-korobeinikov), in Russian.
 
