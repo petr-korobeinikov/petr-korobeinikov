@@ -16,6 +16,7 @@ I am Founding Engineer & Architect ~~building a cloud at [#CloudMTS](https://clo
 **Languages**<br>
 ![Kotlin](https://img.shields.io/badge/Kotlin-292524?style=flat-square&logo=kotlin&logoColor=f97316)
 ![Go](https://img.shields.io/badge/Go-292524?style=flat-square&logo=go&logoColor=f97316)
+![Python](https://img.shields.io/badge/Python-292524?style=flat-square&logo=python&logoColor=f97316)
 
 **Backend**<br>
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-292524?style=flat-square&logo=springboot&logoColor=f97316)
