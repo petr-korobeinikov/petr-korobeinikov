@@ -1,4 +1,4 @@
-## Petr Korobeinikov 👨‍💻
+## Petr Korobeinikov
 
 I am Founding Engineer & Architect ~~building a cloud at [#CloudMTS](https://cloud.mts.ru/)~~ seeking a Principal Engineer role.
 
@@ -6,13 +6,13 @@ I am Founding Engineer & Architect ~~building a cloud at [#CloudMTS](https://clo
 
 ### 🛠 Tech Stack
 
-**Languages:** <img src="./icons/kotlin.svg" width="16" alt=""> Kotlin · <img src="./icons/go.svg" width="16" alt=""> Go · <img src="./icons/python.svg" width="16" alt=""> Python
+**Languages:** Kotlin · Go · Python
 
-**Backend:** <img src="./icons/springboot.svg" width="16" alt=""> Spring Boot · gRPC · <img src="./icons/graphql.svg" width="16" alt=""> GraphQL · <img src="./icons/temporal.svg" width="16" alt=""> Temporal
+**Backend:** Spring Boot · gRPC · GraphQL · Temporal
 
-**Data & Messaging:** <img src="./icons/postgresql.svg" width="16" alt=""> PostgreSQL · <img src="./icons/redis.svg" width="16" alt=""> Redis · <img src="./icons/apachekafka.svg" width="16" alt=""> Kafka
+**Data & Messaging:** PostgreSQL · Redis · Kafka
 
-**Cloud Native:** <img src="./icons/kubernetes.svg" width="16" alt=""> Kubernetes · <img src="./icons/helm.svg" width="16" alt=""> Helm · Kustomize · <img src="./icons/argo.svg" width="16" alt=""> Argo CD · <img src="./icons/opentofu.svg" width="16" alt=""> OpenTofu · <img src="./icons/opentelemetry.svg" width="16" alt=""> OpenTelemetry
+**Cloud Native:** Kubernetes · Helm · Kustomize · Argo CD · OpenTofu · OpenTelemetry
 
 ### 🧩 Open Source
 
