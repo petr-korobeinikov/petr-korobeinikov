@@ -4,37 +4,37 @@ I am Founding Engineer & Architect ~~building a cloud at [#CloudMTS](https://clo
 
 🌐 [petr-korobeinikov.com](https://petr-korobeinikov.com/) · [Blog](https://petr-korobeinikov.com/posts/) · CV: [EN](https://petr-korobeinikov.com/cv/) / [RU](https://petr-korobeinikov.com/ru/cv/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-24292F?style=flat-square)](https://www.linkedin.com/in/petr-korobeinikov)
-[![Telegram](https://img.shields.io/badge/Telegram-24292F?style=flat-square&logo=telegram&logoColor=white)](https://t.me/petr_korobeinikov)
-[![YouTube](https://img.shields.io/badge/YouTube-24292F?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@principal-engineering)
-[![Habr](https://img.shields.io/badge/Habr-24292F?style=flat-square&logo=habr&logoColor=white)](https://habr.com/ru/users/petr-korobeinikov)
-[![LeetCode](https://img.shields.io/badge/LeetCode-24292F?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/petr-korobeinikov)
-[![daily.dev](https://img.shields.io/badge/daily.dev-24292F?style=flat-square&logo=dailydotdev&logoColor=white)](https://app.daily.dev/petr_korobeinikov)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-292524?style=flat-square)](https://www.linkedin.com/in/petr-korobeinikov)
+[![Telegram](https://img.shields.io/badge/Telegram-292524?style=flat-square&logo=telegram&logoColor=f97316)](https://t.me/petr_korobeinikov)
+[![Habr](https://img.shields.io/badge/Habr-292524?style=flat-square&logo=habr&logoColor=f97316)](https://habr.com/ru/users/petr-korobeinikov)
+[![LeetCode](https://img.shields.io/badge/LeetCode-292524?style=flat-square&logo=leetcode&logoColor=f97316)](https://leetcode.com/petr-korobeinikov)
+[![daily.dev](https://img.shields.io/badge/daily.dev-292524?style=flat-square&logo=dailydotdev&logoColor=f97316)](https://app.daily.dev/petr_korobeinikov)
+[![YouTube](https://img.shields.io/badge/YouTube-292524?style=flat-square&logo=youtube&logoColor=f97316)](https://www.youtube.com/@principal-engineering)
 
 ### 🛠 Tech Stack
 
 **Languages**<br>
-![Kotlin](https://img.shields.io/badge/Kotlin-24292F?style=flat-square&logo=kotlin&logoColor=white)
-![Go](https://img.shields.io/badge/Go-24292F?style=flat-square&logo=go&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-292524?style=flat-square&logo=kotlin&logoColor=f97316)
+![Go](https://img.shields.io/badge/Go-292524?style=flat-square&logo=go&logoColor=f97316)
 
 **Backend**<br>
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-24292F?style=flat-square&logo=springboot&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-24292F?style=flat-square)
-![GraphQL](https://img.shields.io/badge/GraphQL-24292F?style=flat-square&logo=graphql&logoColor=white)
-![Temporal](https://img.shields.io/badge/Temporal-24292F?style=flat-square&logo=temporal&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-292524?style=flat-square&logo=springboot&logoColor=f97316)
+![gRPC](https://img.shields.io/badge/gRPC-292524?style=flat-square)
+![GraphQL](https://img.shields.io/badge/GraphQL-292524?style=flat-square&logo=graphql&logoColor=f97316)
+![Temporal](https://img.shields.io/badge/Temporal-292524?style=flat-square&logo=temporal&logoColor=f97316)
 
 **Data & Messaging**<br>
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-24292F?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-24292F?style=flat-square&logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-24292F?style=flat-square&logo=apachekafka&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-292524?style=flat-square&logo=postgresql&logoColor=f97316)
+![Redis](https://img.shields.io/badge/Redis-292524?style=flat-square&logo=redis&logoColor=f97316)
+![Kafka](https://img.shields.io/badge/Kafka-292524?style=flat-square&logo=apachekafka&logoColor=f97316)
 
 **Cloud Native**<br>
-![Kubernetes](https://img.shields.io/badge/Kubernetes-24292F?style=flat-square&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-24292F?style=flat-square&logo=helm&logoColor=white)
-![Kustomize](https://img.shields.io/badge/Kustomize-24292F?style=flat-square)
-![Argo CD](https://img.shields.io/badge/Argo_CD-24292F?style=flat-square&logo=argo&logoColor=white)
-![OpenTofu](https://img.shields.io/badge/OpenTofu-24292F?style=flat-square&logo=opentofu&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-24292F?style=flat-square&logo=opentelemetry&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-292524?style=flat-square&logo=kubernetes&logoColor=f97316)
+![Helm](https://img.shields.io/badge/Helm-292524?style=flat-square&logo=helm&logoColor=f97316)
+![Kustomize](https://img.shields.io/badge/Kustomize-292524?style=flat-square)
+![Argo CD](https://img.shields.io/badge/Argo_CD-292524?style=flat-square&logo=argo&logoColor=f97316)
+![OpenTofu](https://img.shields.io/badge/OpenTofu-292524?style=flat-square&logo=opentofu&logoColor=f97316)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-292524?style=flat-square&logo=opentelemetry&logoColor=f97316)
 
 ### 🧩 Open Source
 
