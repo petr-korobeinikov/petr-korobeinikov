@@ -19,7 +19,6 @@ I am Founding Engineer & Architect ~~building a cloud at [#CloudMTS](https://clo
 - **PostgreSQL 9.6**: [`\ev` and `\sv` psql commands](https://git.postgresql.org/pg/commitdiff/8eb6407aaeb6cbd972839e356b436bb698f51cff) for editing and showing view definitions
 - **PostgreSQL 9.6**: [`to_reg*()` functions accept `text`](https://git.postgresql.org/pg/commitdiff/ea0d494dae0d3d6fce26bf5d6fbaa07e2ee6c402) instead of `cstring`
 - **gci**: [`localmodule` support for projects without Go sources in the root](https://github.com/daixiang0/gci/pull/192), shipped with golangci-lint
-- Smaller fixes: [http-timeout](https://github.com/wreulicke/http-timeout/pull/1), [asdf-eza](https://github.com/lwiechec/asdf-eza/pull/6)
 
 ### 📝 Publications
 
