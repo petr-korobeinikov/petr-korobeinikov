@@ -4,13 +4,6 @@ I am Founding Engineer & Architect ~~building a cloud at [#CloudMTS](https://clo
 
 🌐 [petr-korobeinikov.com](https://petr-korobeinikov.com/) · [Blog](https://petr-korobeinikov.com/posts/) · CV: [EN](https://petr-korobeinikov.com/cv/) / [RU](https://petr-korobeinikov.com/ru/cv/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-292524?style=flat-square)](https://www.linkedin.com/in/petr-korobeinikov)
-[![Telegram](https://img.shields.io/badge/Telegram-292524?style=flat-square&logo=telegram&logoColor=f97316)](https://t.me/petr_korobeinikov)
-[![Habr](https://img.shields.io/badge/Habr-292524?style=flat-square&logo=habr&logoColor=f97316)](https://habr.com/ru/users/petr-korobeinikov)
-[![LeetCode](https://img.shields.io/badge/LeetCode-292524?style=flat-square&logo=leetcode&logoColor=f97316)](https://leetcode.com/petr-korobeinikov)
-[![daily.dev](https://img.shields.io/badge/daily.dev-292524?style=flat-square&logo=dailydotdev&logoColor=f97316)](https://app.daily.dev/petr_korobeinikov)
-[![YouTube](https://img.shields.io/badge/YouTube-292524?style=flat-square&logo=youtube&logoColor=f97316)](https://www.youtube.com/@principal-engineering)
-
 ### 🛠 Tech Stack
 
 **Languages:** <img src="./icons/kotlin.svg" width="16" alt=""> Kotlin · <img src="./icons/go.svg" width="16" alt=""> Go · <img src="./icons/python.svg" width="16" alt=""> Python
